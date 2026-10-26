@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "trialworld:chamber",
+  "spawners": [
+    { "type": "minecraft:witch", "weight": 8, "minCount": 1, "maxCount": 1 },
+    { "type": "minecraft:husk", "weight": 25, "minCount": 1, "maxCount": 3 },
+    { "type": "minecraft:stray", "weight": 25, "minCount": 1, "maxCount": 3 },
+    { "type": "minecraft:silverfish", "weight": 20, "minCount": 2, "maxCount": 4 },
+    { "type": "minecraft:enderman", "weight": 6, "minCount": 1, "maxCount": 1 },
+    { "type": "minecraft:zombie_villager", "weight": 6, "minCount": 1, "maxCount": 1 },
+    { "type": "minecraft:vindicator", "weight": 4, "minCount": 1, "maxCount": 1 }
+  ]
+}

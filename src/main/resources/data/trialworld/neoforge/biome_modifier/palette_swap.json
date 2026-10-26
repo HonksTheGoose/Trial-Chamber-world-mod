@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "trialworld:chamber",
+  "features": "trialworld:palette_swap",
+  "step": "top_layer_modification"
+}
